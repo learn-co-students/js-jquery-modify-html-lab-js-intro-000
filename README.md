@@ -14,3 +14,6 @@ We'll be coding our solution in `html/index.html`.
 + Before the closing body tag, use jQuery to append this gif (https://s3.amazonaws.com/learn-verified/painting-with-dog.gif) to the div with the ID `image`. 
 
 ![Kid painting with dog's tail](https://s3.amazonaws.com/learn-verified/painting-with-dog.gif)
+
+## Resources
++ [Stack Overflow](http://stackoverflow.com/questions/941206/jquery-add-image-inside-of-div-tag)
