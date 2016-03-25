@@ -2,7 +2,7 @@
 
 ## Objectives
 + Link jQuery to HTML file
-+ Use jQuery to manipulate HTMl
++ Use jQuery to manipulate HTML
 
 ## Instructions
 Everyone loves a good gif of puppies and kids doing funny things, so let's use jQuery to make sure we have a good one on our page.
@@ -19,3 +19,5 @@ We'll be coding our solution in `html/index.html`.
 + [Stack Overflow](http://stackoverflow.com/questions/941206/jquery-add-image-inside-of-div-tag)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-modify-html-lab' title='Puppies + Babies'>Puppies + Babies</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-modify-html-lab'>Modifying HTML with jQuery Lab</a> on Learn.co and start learning to code for free.</p>
