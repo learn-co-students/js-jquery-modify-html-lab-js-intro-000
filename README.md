@@ -18,4 +18,4 @@ We'll be coding our solution in `html/index.html`.
 ## Resources
 + [Stack Overflow](http://stackoverflow.com/questions/941206/jquery-add-image-inside-of-div-tag)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-modify-html-lab'>Modifying HTML with jQuery Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-modify-html-lab'>Modifying HTML with jQuery Lab</a> on Learn.co and start learning to code for free.</p> <3
