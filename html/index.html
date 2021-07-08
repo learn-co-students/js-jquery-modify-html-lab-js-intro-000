@@ -6,4 +6,12 @@
 <body>
   <div id="image">
   </div>
+  <script src=http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js></script>
+  <script>
+    var gif = `https://s3.amazonaws.com/learn-verified/painting-with-dog.gif`;
+    var image = document.createElement('img');
+    image.src = gif;
+    image.id = 'image';
+    var target = $('#image').append(image);
+  </script>
 </body>
